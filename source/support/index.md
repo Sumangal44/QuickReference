@@ -1,6 +1,6 @@
 ---
 title: Buy Me a Coffee
-description: Support the development of CheatSheets.zip through various donation platforms
+description: Support the development of QuickReference through various donation platforms
 permalink: /support/
 background: bg-gradient-to-r from-pink-500 to-purple-600
 tags:
@@ -9,14 +9,14 @@ tags:
 categories:
   - Other
 intro: |
-  Thank you for considering supporting CheatSheets.zip! Your contributions help us maintain and improve this free resource for developers worldwide.
+  Thank you for considering supporting QuickReference! Your contributions help us maintain and improve this free resource for developers worldwide.
 ---
 
 ## Buy Me a Coffee
 
 ### 💖 Why Support Us?
 
-CheatSheets.zip serves **1M+ developers** monthly with **200+ free cheat sheets**.
+QuickReference serves **1M+ developers** monthly with **200+ free cheat sheets**.
 
 We believe great developer resources should be **free forever**. Your support helps us:
 

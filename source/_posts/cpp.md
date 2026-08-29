@@ -20,7 +20,7 @@ plugins:
 #include <iostream>
 
 int main() {
-    std::cout << "Hello CheatSheets\n";
+    std::cout << "Hello QuickReference\n";
     return 0;
 }
 ```
@@ -30,7 +30,7 @@ Compiling and running
 ```shell script
 $ g++ hello.cpp -o hello
 $ ./hello
-Hello CheatSheets
+Hello QuickReference
 ```
 
 ### Variables
@@ -130,7 +130,7 @@ int main() {  // main function
 }
 
 void hello() { // Defining
-    std::cout << "Hello CheatSheets!\n";
+    std::cout << "Hello QuickReference!\n";
 }
 ```
 
@@ -492,12 +492,12 @@ for (int n : {1, 2, 3, 4, 5}) {
 ---
 
 ```cpp
-std::string hello = "CheatSheets.zip";
+std::string hello = "QuickReference";
 for (char c: hello)
 {
     std::cout << c << " ";
 }
-// Outputs: Q u i c k R e f . M E
+// Outputs: Q u i c k R e f e r e n c e
 ```
 
 ### Break statements

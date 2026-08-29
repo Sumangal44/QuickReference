@@ -606,7 +606,7 @@ for (v, c) in (0..10 + 1).enumerate() {
 
 ```rust
 fn print_message() {
-    println!("Hello, CheatSheets.zip!");
+    println!("Hello, QuickReference!");
 }
 
 fn main() {

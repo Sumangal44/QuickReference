@@ -643,15 +643,15 @@ console.log(result);
 $str = "Visit Microsoft!";
 $regex = "/microsoft/i";
 
-// Output: Visit CheatSheets!
-echo preg_replace($regex, "CheatSheets", $str);
+// Output: Visit QuickReference!
+echo preg_replace($regex, "QuickReference", $str);
 ```
 
 ### preg_match
 
 ```php
-$str = "Visit CheatSheets";
-$regex = "#cheatsheets#i";
+$str = "Visit QuickReference";
+$regex = "#quickreference#i";
 
 // Output: 1
 echo preg_match($regex, $str);

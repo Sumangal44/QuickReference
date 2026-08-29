@@ -19,7 +19,7 @@ plugins:
 
 ```kotlin
 fun main() {
-  println("Greetings, CheatSheets.zip!")
+  println("Greetings, QuickReference!")
   // Code goes here
 }
 ```

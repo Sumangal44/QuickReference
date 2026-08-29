@@ -1,5 +1,5 @@
 ---
-title: CheatSheets
+title: QuickReference
 date: 2020-11-25 18:28:43
 background: bg-gradient-to-l from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500
 tags:
@@ -7,7 +7,7 @@ tags:
   - reference
 categories:
   - Other
-intro: This is the magic syntax variant manual that you can use on CheatSheets.zip, It's a good practice for contributors.
+intro: This is the magic syntax variant manual that you can use on QuickReference, It's a good practice for contributors.
 plugins:
   - copyCode
 ---
@@ -32,7 +32,7 @@ plugins:
 - Send us pull request and chill {.marker-timeline}
 
 It's a good practice to refer to the source code of the
-[CheatSheets reference](https://github.com/Fechin/reference/blob/main/source/_posts/quickref.md).
+[QuickReference](https://github.com/Fechin/reference/blob/main/source/_posts/quickref.md).
 
 ### Directory Structure
 
@@ -103,7 +103,7 @@ It's a good practice to refer to the source code of the
 - [Paragraph Variants](#paragraph-variants)
 - [Cards Example](#cards-example)
 
-All the magic variants supported by CheatSheets.zip
+All the magic variants supported by QuickReference
 
 ### Create source/\_posts/demo.md
 

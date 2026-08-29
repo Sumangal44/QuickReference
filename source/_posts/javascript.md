@@ -29,8 +29,8 @@ JavaScript is a lightweight, interpreted programming language.
 // => Hello world!
 console.log('Hello world!');
 
-// => Hello CheatSheets.zip
-console.warn('hello %s', 'CheatSheets.zip');
+// => Hello QuickReference
+console.warn('hello %s', 'QuickReference');
 
 // Prints error message to stderr
 console.error(new Error('Oops!'));

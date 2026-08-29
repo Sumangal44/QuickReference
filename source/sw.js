@@ -1,4 +1,4 @@
-// CheatSheets.zip Service Worker
+// QuickReference Service Worker
 const STATIC_CACHE = 'cheatsheets-static-v1';
 const DYNAMIC_CACHE = 'cheatsheets-dynamic-v1';
 
@@ -147,7 +147,7 @@ function createOfflineResponse(pathname) {
       <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Offline - CheatSheets.zip</title>
+        <title>Offline - QuickReference</title>
         <style>
           body { 
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;

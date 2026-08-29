@@ -75,7 +75,7 @@ plugins:
 ```json {.wrap}
 {
   "url": "https://cheatsheets.zip",
-  "msg": "Hi,\n\"CheatSheets.zip\"",
+  "msg": "Hi,\n\"QuickReference\"",
   "intro": "Share quick reference and cheat sheet for developers."
 }
 ```

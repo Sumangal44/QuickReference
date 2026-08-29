@@ -76,11 +76,11 @@ See: [Strings](#java-strings)
 ### Loops
 
 ```java
-String word = "CheatSheets";
+String word = "QuickReference";
 for (char c: word.toCharArray()) {
   System.out.print(c + "-");
 }
-// Outputs: C-h-e-a-t-S-h-e-e-t-s-
+// Outputs: Q-u-i-c-k-R-e-f-e-r-e-n-c-e-
 ```
 
 See: [Loops](#java-loops)

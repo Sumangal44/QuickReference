@@ -27,7 +27,7 @@ plugins:
     <title>HTML5 Boilerplate</title>
   </head>
   <body>
-    <h1>Hello world, hello CheatSheets.zip!</h1>
+    <h1>Hello world, hello QuickReference!</h1>
   </body>
 </html>
 ```
@@ -48,7 +48,7 @@ Or try it out in the [jsfiddle](https://jsfiddle.net/Fechin/1e4wz20b/)
 ### Paragraph
 
 ```html
-<p>I'm from CheatSheets.zip</p>
+<p>I'm from QuickReference</p>
 <p>Share quick reference cheat sheet.</p>
 ```
 
@@ -57,7 +57,7 @@ See: [The Paragraph element](https://developer.mozilla.org/en-US/docs/Web/HTML/E
 ### HTML link
 
 ```html
-<a href="https://cheatsheets.zip">CheatSheets</a>
+<a href="https://cheatsheets.zip">QuickReference</a>
 <a href="mailto:jack@abc.com">Email</a>
 <a href="tel:+12345678">Call</a>
 <a href="sms:+12345678&body=ha%20ha">Msg</a>
@@ -176,7 +176,7 @@ See: [The Inline Frame element](https://developer.mozilla.org/en-US/docs/Web/HTM
 
 ```html
 <script type="text/javascript">
-  let text = 'Hello CheatSheets.zip';
+  let text = 'Hello QuickReference';
   alert(text);
 </script>
 ```
@@ -220,10 +220,10 @@ See: [The Inline Frame element](https://developer.mozilla.org/en-US/docs/Web/HTM
     <nav>...</nav>
   </header>
   <main>
-    <h1>CheatSheets.zip</h1>
+    <h1>QuickReference</h1>
   </main>
   <footer>
-    <p>©2023 CheatSheets.zip</p>
+    <p>©2023 QuickReference</p>
   </footer>
 </body>
 ```
@@ -359,10 +359,10 @@ audio element. </audio>
 ### HTML5 mark
 
 ```html
-<p>I Love <mark>CheatSheets.zip</mark></p>
+<p>I Love <mark>QuickReference</mark></p>
 ```
 
-<p>I Love <mark>CheatSheets.zip</mark></p>
+<p>I Love <mark>QuickReference</mark></p>
 
 ## HTML Tables
 

@@ -322,8 +322,8 @@ Reference provides cheat sheets for the following:
   their numbers and names.
 - [Aspect Ratio](https://cheatsheets.zip/aspect-ratio.html): This cheat sheet lists some common aspect ratios and their
   pixel resolutions. Always confirm your final delivery ratio when shooting.
-- [CheatSheets](https://cheatsheets.zip/quickref.html): This is the magic syntax variant manual that you can use on
-  CheatSheets.zip, It’s a good practice for contributors.
+- [QuickReference](https://cheatsheets.zip/quickref.html): This is the magic syntax variant manual that you can use on
+  QuickReference, It’s a good practice for contributors.
 - [Emoji](https://cheatsheets.zip/emoji.html): Some of the emoji codes are not super easy to remember, so here is a
   little cheat sheet.
 - [Google Search](https://cheatsheets.zip/google-search.html): This quick reference cheat sheet lists of Google advanced
@@ -389,7 +389,7 @@ file should include a front matter section with the following format:
 
 ```markdown
 ---
-title: CheatSheets
+title: QuickReference
 date: 2020-11-25 18:28:43
 icon: icon-style
 background: bg-indigo-600

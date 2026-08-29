@@ -3,7 +3,7 @@ title: About
 date: 2020-03-26 20:45:53
 ---
 
-Welcome to [CheatSheets] – your go-to resource for [describing content]. Designed with
+Welcome to [QuickReference] – your go-to resource for [describing content]. Designed with
 [developers/students/professionals] in mind, our quick reference provides a comprehensive collection of
 [topics/sections] to help you [solve problems/learn efficiently/etc.].
 

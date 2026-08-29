@@ -87,3 +87,6 @@ db.json
 .eslintcache
 .stylelintcache
 .prettierignore
+
+# Local Netlify folder
+.netlify
