@@ -12,6 +12,7 @@
     "build:css": "node node_modules/postcss-cli/index.js themes/coo/source/css/style.tailwindcss -o themes/coo/source/css/style.css",
     "build:generate": "npx hexo generate",
     "build:gulp": "npx gulp --max-old-space-size=4096",
+    "deploy": "npm run build && netlify deploy --prod --dir=public",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "lint": "eslint themes/coo/source/js/**/*.js --fix",
